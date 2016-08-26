@@ -1,9 +1,9 @@
 # ansible-vagrant-GAVS
 
-Pre-Requisites:
-1. Install Vagrant from this <a href="https://www.vagrantup.com/downloads.html ">link</a>
-2. Install VirtualBox from this <a href="https://www.virtualbox.org/wiki/Linux_Downloads">link</a>  
-3. Install Ansible by using these commands
+<b>Pre-Requisites:<b>
+1. Install Vagrant from this <a href="https://www.vagrantup.com/downloads.html ">link</a> </br>
+2. Install VirtualBox from this <a href="https://www.virtualbox.org/wiki/Linux_Downloads">link</a> </br>  
+3. Install Ansible by using these commands </br>
 
     sudo apt-get update
     sudo apt-get install software-properties-common
@@ -28,4 +28,4 @@ Then run this command
 
 Upon, success, , verify your LAMP server by opening this link on your browser: http://localhost:8080/info.php
 
--- <e><b>Dibin Dixit M </b></e>
+-- <i><b>Dibin Dixit M </b></i>
