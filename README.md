@@ -20,7 +20,7 @@ Next, we need to refresh our system's package index so that it is aware of the p
     sudo apt-get install ansible
     
 
-Steps:
+<b>Provisioning: </b> </br>
 Once you are done installing the prerequisites, copy all files to the project Root folder.
 Then run this command
 
