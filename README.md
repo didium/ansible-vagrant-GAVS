@@ -26,6 +26,6 @@ Then run this command
 
     $ vagrant up
 
-Upon success, verify your LAMP server by opening this link on your browser: "http://localhost:8080/info.php"
+Upon success, verify your LAMP server by opening this link on your browser: http://localhost:8080/info.php
 
 -- <i><b>Dibin Dixit M </b></i>
