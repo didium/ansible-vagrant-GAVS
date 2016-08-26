@@ -3,7 +3,7 @@
 <b>Pre-Requisites:</b> </br>
 1. Install Vagrant from this <a href="https://www.vagrantup.com/downloads.html ">link</a> </br>
 2. Install VirtualBox from this <a href="https://www.virtualbox.org/wiki/Linux_Downloads">link</a> </br>  
-3. Install Ansible by using these commands </br>
+3. Install Ansible by using these commands in Ubuntu Source machine</br>
 
     sudo apt-get update
     sudo apt-get install software-properties-common
