@@ -28,5 +28,4 @@ Then run this command
 
 Upon, success, , verify your LAMP server by opening this link on your browser: http://localhost:8080/info.php
 
-- Dibin Dixit M,
-- Didium Technologies
+-- Dibin Dixit M, Didium Technologies
